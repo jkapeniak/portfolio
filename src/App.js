@@ -3,9 +3,7 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
-import NavbarBrand from "react-bootstrap/NavbarBrand";
 import Nav from "react-bootstrap/Nav";
-import NavbarCollapse from "react-bootstrap/esm/NavbarCollapse";
 
 import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
