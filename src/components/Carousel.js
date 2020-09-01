@@ -39,7 +39,7 @@ class Carousel extends React.Component {
                 {
                     id: 2,
                     title: 'Firebase Application',
-                    subTitle: 'React Native Application with Firebase \n Database and UserAuthentication Integration ',
+                    subTitle: 'React Native Application',
                     imgSrc: firebaseapp,
                     link: 'https://github.com/jkapeniak/',
                     selected: false
