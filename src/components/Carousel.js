@@ -25,7 +25,7 @@ class Carousel extends React.Component {
                     title: 'Kandinsky Mobile App',
                     subTitle: 'Ai Generated WallPapers',
                     imgSrc: kandinsky,
-                    link: 'https://devgrub.com',
+                    link: 'https://apps.apple.com/az/app/kandinsky-io-wallpapers/id1481018039',
                     selected: false
                 },
                 {
@@ -39,7 +39,7 @@ class Carousel extends React.Component {
                 {
                     id: 2,
                     title: 'Firebase Application',
-                    subTitle: 'React Native Application with Firebase Database and UserAuthentication Integration ',
+                    subTitle: 'React Native Application with Firebase \n Database and UserAuthentication Integration ',
                     imgSrc: firebaseapp,
                     link: 'https://github.com/garrettlove8/evverest',
                     selected: false
