@@ -1,7 +1,7 @@
 import React from 'react';
 
-import kandinsky from '/Users/juliuskapeniak/projects/portfolio-site/src/assets/kandinsky.PNG';
-import javaApp from '/Users/juliuskapeniak/projects/portfolio-site/src/assets/javaApp.png';
+//import kandinsky from 'src/assets/kandinsky.PNG';
+import javaApp from '../components/javaApp.png';
 
 import Card from '../components/Card';
 
@@ -10,6 +10,7 @@ import Row from 'react-bootstrap/Row';
 
 //import javaApp from '../assets/images/javaApp';
 
+//import image from '../portfolio-site/build/logo512.png';
 
 class Carousel extends React.Component {
 
@@ -21,7 +22,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Kandinsky Mobile App',
                     subTitle: 'Ai Generated WallPapers',
-                    imgSrc: kandinsky,
+                    imgSrc: javaApp,
                     link: 'https://devgrub.com',
                     selected: false
                 },
@@ -37,7 +38,7 @@ class Carousel extends React.Component {
                     id: 2,
                     title: 'Evverest',
                     subTitle: 'A social network for developers',
-                    imgSrc: kandinsky,
+                    imgSrc: javaApp,
                     link: 'https://github.com/garrettlove8/evverest',
                     selected: false
                 },
