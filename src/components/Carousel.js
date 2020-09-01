@@ -2,6 +2,8 @@ import React from 'react';
 
 //import kandinsky from 'src/assets/kandinsky.PNG';
 import javaApp from '../components/javaApp.png';
+import kandinsky from '../components/kandinsky.PNG';
+import firebaseapp from '../components/firebase-RN.png';
 
 import Card from '../components/Card';
 
@@ -22,7 +24,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Kandinsky Mobile App',
                     subTitle: 'Ai Generated WallPapers',
-                    imgSrc: javaApp,
+                    imgSrc: kandinsky,
                     link: 'https://devgrub.com',
                     selected: false
                 },
@@ -36,9 +38,9 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 2,
-                    title: 'Evverest',
-                    subTitle: 'A social network for developers',
-                    imgSrc: javaApp,
+                    title: 'Firebase Application',
+                    subTitle: 'React Native Application with Firebase Database and UserAuthentication Integration ',
+                    imgSrc: firebaseapp,
                     link: 'https://github.com/garrettlove8/evverest',
                     selected: false
                 },
