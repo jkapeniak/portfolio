@@ -25,8 +25,8 @@ class App extends React.Component {
       ],
 
       home: {
-        title: "Hire me or else",
-        subTitle: "Please just fucking hire me",
+        title: "Problem Solver ideally with a computer",
+        subTitle: "hello world",
         text: "See some of my projects below"
       },
 
