@@ -33,7 +33,7 @@ class Carousel extends React.Component {
                     title: 'Java Swing Application',
                     subTitle: 'Gryphon Text Adventure Game',
                     imgSrc: javaApp,
-                    link: 'https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw',
+                    link: 'https://github.com/jkapeniak/java-swing-game',
                     selected: false
                 },
                 {
@@ -41,7 +41,7 @@ class Carousel extends React.Component {
                     title: 'Firebase Application',
                     subTitle: 'React Native Application with Firebase \n Database and UserAuthentication Integration ',
                     imgSrc: firebaseapp,
-                    link: 'https://github.com/garrettlove8/evverest',
+                    link: 'https://github.com/jkapeniak/',
                     selected: false
                 },
             ]
