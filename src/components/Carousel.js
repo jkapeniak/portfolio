@@ -44,6 +44,15 @@ class Carousel extends React.Component {
                     link: 'https://github.com/jkapeniak/',
                     selected: false
                 },
+                {
+                    id: 3,
+                    title: 'Portfolio Site',
+                    subTitle: 'React  Application',
+                    imgSrc: firebaseapp,
+                    link: 'https://github.com/jkapeniak/',
+                    selected: false
+                }
+            
             ]
         }
     }
