@@ -1,7 +1,6 @@
 import React from 'react';
 
 //import kandinsky from 'src/assets/kandinsky.PNG';
-import javaApp from '../components/javaApp.png';
 import kandinsky from '../components/kandinsky.PNG';
 import firebaseapp from '../components/firebase-RN.png';
 import reactLogo from '../components/react-logo.png';
